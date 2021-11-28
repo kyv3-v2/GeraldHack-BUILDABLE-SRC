@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "compatibilityLevel": "JAVA_8",
+    "package": "dev.gerald.hack.impl.mixins",
+    "refmap": "mixins.gerald.refmap.json",
+    "mixins": [
+        "MixinGuiMainMenu",
+        "MixinNetworkManager"
+    ]
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "geraldhack",
+  "name": "GeraldHack",
+  "description": "made opensource by cash.",
+  "version": "v1.1",
+  "mcversion": "1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gerald0mc"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
