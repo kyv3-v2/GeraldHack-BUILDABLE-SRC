@@ -39,7 +39,7 @@ public class Gerald
         this.clickGUI = new ClickGUI();
         this.hud = new HUD(this);
         this.configManager = new ConfigManager();
-        Display.setTitle("GeraldHack v1.1");
+        Display.setTitle(Gerald.CLIENT_NAME + " " + Gerald.CLIENT_VERSION);
         this.configManager.load();
         Runtime.getRuntime().addShutdownHook((Thread)new ShutdownHook());
     }
