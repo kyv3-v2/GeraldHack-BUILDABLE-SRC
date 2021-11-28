@@ -1,5 +1,4 @@
-
-//Decompiled by Procyon!
+//shittery removed by ligmaballz#6211
 //made buildable by cash
 
 package dev.gerald.hack;
